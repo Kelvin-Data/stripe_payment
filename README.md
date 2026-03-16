@@ -4,4 +4,4 @@ In the previous tutorial, we created a sales invoice using Python and ReportLab.
 
 📌 Full tutorial: https://python-post.blogspot.com/2026/03/how-to-automatically-generate-and-email.html
 
-![image_source](https://github.com/Kelvin-Data/...)
+![image_source](https://github.com/Kelvin-Data/stripe_payment/blob/e3f88302cd4c9a5e01b49e96e90245b32be267e4/Stripe_payment.png)
